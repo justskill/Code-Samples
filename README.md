@@ -1,14 +1,17 @@
 # Code-Samples
-This repository contains various pieces of code I've written in my professional career.  Below are some brief descriptions of each piece.
+This repository contains various pieces of code I've written recently in my professional career.  Below are some brief descriptions of each piece.
 
 ---
 
-**Code 1**
-
-
----
-**Code 2**
-
+**Property-User-UserList-Classes.ps1**
+This script is an example of a tool that leverages Object Oriented Classes to provide a streamlined method to generate specific sets of data for working with a particular application.
 
 ---
-**Code 3**
+**User-Asset-Report.ps1**
+This script is an example of a procedural tool that is designed to run autonomously on a regular schedule.
+
+---
+**/Flask Docker App**
+*Dockerfile*
+*api-example.py*
+This is an example of a Python application that is designed to be deployed in a Docker container.
