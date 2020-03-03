@@ -6,7 +6,7 @@ Please note that some content has been redacted for security purposes.  This can
     
 
 
-## [Property-User-UserList-Classes.ps1](/Property-User-UserList-Class.ps1)
+## [Property-User-UserList-Classes.ps1](/Property-User-UserList-Classes.ps1)
 
 >This script is a tool that leverages Object Oriented Classes to provide a streamlined method to generate specific sets of data for working with a particular application.
 
